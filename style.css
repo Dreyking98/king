@@ -1,0 +1,19 @@
+svg {
+    
+}
+body{
+    background-color: white;
+}
+input.learning {
+    background-color: hsl(47, 89%, 63%);
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 2em;
+    width: 7em;
+}
+.name{
+    
+}
+p{
+    font-size: 16px;
+}
